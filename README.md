@@ -1,5 +1,4 @@
-Georgetown Twitter (Chirpy)
-===========================
+# Chirpy
 
 **Tutorial on how to ingest data with Twitter**
 
